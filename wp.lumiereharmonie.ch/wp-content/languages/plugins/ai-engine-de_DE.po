@@ -1,0 +1,125 @@
+# Translation of Plugins - AI Engine: ChatGPT Chatbot, Content Generator, GPT 3 &amp; 4, Ultra-Customizable - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - AI Engine: ChatGPT Chatbot, Content Generator, GPT 3 &amp; 4, Ultra-Customizable - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-04-19 16:34:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - AI Engine: ChatGPT Chatbot, Content Generator, GPT 3 &amp; 4, Ultra-Customizable - Stable (latest release)\n"
+
+#. Description of the plugin
+msgid "GPT for WordPress! Chatbot (ChatGPT), content and images generator, copilot, model training and much more! Highly customizable, sleek UI. You will love it!"
+msgstr "GPT für WordPress! Chatbot (ChatGPT), Inhalts- und Bildgenerator, Copilot, Modelltraining und vieles mehr! Hochgradig anpassbar, schlanke GUI. Du wirst es lieben!"
+
+#: classes/admin.php:94 app/i18n.js:96
+msgid "Images"
+msgstr "Bilder"
+
+#. Plugin Name of the plugin
+msgid "AI Engine: ChatGPT Chatbot, Content Generator, GPT 3 & 4, Ultra-Customizable"
+msgstr "AI Engine: ChatGPT Chatbot, Inhalts-Generator, GPT 3 & 4, extrem anpassbar"
+
+#: classes/admin.php:86 app/i18n.js:95
+msgid "Content"
+msgstr "Inhalt"
+
+#: classes/admin.php:50 classes/admin.php:113 app/i18n.js:80
+msgid "Playground"
+msgstr "Spielplatz"
+
+#: common/news.php:96
+msgid "❌ Delete"
+msgstr "❌ Löschen"
+
+#: common/news.php:87
+msgid "👉 AI Engine at WordPress.org"
+msgstr "👉 AI Engine auf WordPress.org"
+
+#: common/news.php:82
+msgid "<p style=\"font-size: 14px;\">Since the end of 2022, I worked a lot to craft <b>the perfect AI plugin for WordPress</b>. As of February 2023, it's perfectly stable and packed with features. You'll get chatbots, AI forms, easy model training, content and images generation, a template system that will allow you to create your personal assistants for various tasks and much more! Here it is: <a href=\"%s\" target=\"_blank\">AI Engine</a>. Believe me, you will enjoy this. Have fun, and let me know how it goes! 🥳</p>"
+msgstr "<p style=\"font-size: 14px;\">Seit Ende 2022 habe ich viel daran gearbeitet, <b>das perfekte KI-Plugin für WordPress</b> zu entwickeln.  Seit Februar 2023 ist es vollkommen stabil und vollgepackt mit Funktionen. Du erhältst Chatbots, KI-Formulare, einfaches Modelltraining, Generierung von Inhalten und Bildern, ein Template-System, mit dem du deinen persönlichen Assistenten für verschiedene Aufgaben erstellen kannst und vieles mehr! Ich präsentiere: <a href=\"%s\" target=\"_blank\">AI Engine</a>. Glaube mir, es wird dir gefallen. Viel Spaß und lass mich wissen, wie es läuft! 🥳</p>"
+
+#: common/news.php:79
+msgid "<h2 style=\"margin: 0 0 10px 0\" class=\"title\">AI Engine by Meow Apps: The Power of AI into WordPress 💫</h2>"
+msgstr "<h2 style=\"margin: 0 0 10px 0\" class=\"title\">AI Engine von Meow Apps: Die Kraft der KI in WordPress 💫</h2>"
+
+#: common/ratings.php:107 app/i18n.js:93
+msgid "Hide"
+msgstr "Verstecken"
+
+#: common/ratings.php:93
+msgid "✌️ Done!"
+msgstr "✌️ Fertig!"
+
+#: common/ratings.php:83
+msgid "<h2 style=\"margin: 0\" class=\"title\">You have been using <b>%1$s</b> for some time now. Thank you! 💕</h2><p>If you have a minute, can you write a <b><a target=\"_blank\" href=\""
+msgstr "<h2 style=\"margin: 0\" class=\"title\">Du hast <b>%1$s</b> für einige Zeit genutzt. Vielen Dank! 💕</h2><p>Falls du eine Minute hast, würde ich mich über eine Bewertung sehr freuen <b><a target=\"_blank\" href=\""
+
+#: classes/admin.php:77 classes/modules/assistants.php:23
+msgid "AI Engine"
+msgstr "AI Engine"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/ai-engine/"
+msgstr "https://wordpress.org/plugins/ai-engine/"
+
+#: common/news.php:91 common/ratings.php:101
+msgid "⏰ Remind me later"
+msgstr "⏰ Erinnere mich später"
+
+#. translators: %1$s is the version of the interface; %2$s is a file path.
+#: common/admin.php:179
+msgid "Thanks for using <a href=\"https://meowapps.com\">Meow Apps</a>! This is the Meow Admin %1$s <br /><i>Loaded from %2$s </i>"
+msgstr "Danke, dass du <a href=\"https://meowapps.com\">Meow Apps</a> benutzt! Dies ist Meow Admin %1$s <br /><i> Geladen von %2$s </i>"
+
+#: common/admin.php:144
+msgid "<label>Hide <b>Meow Apps</b> Menu</label><br /><small>Hide Meow Apps menu and all its components, for a cleaner admin. This option will be reset if a new Meow Apps plugin is installed.<br /><b>Once activated, an option will be added in your General settings to display it again.</b></small>"
+msgstr "<label>Verberge <b>Meow Apps</b>-Menü</label><br /><small>Das Meow Apps-Menü für eine aufgeräumtere Admin-Oberfläche verbergen. Diese Option wird zurückgesetzt, wenn ein neues Meow Apps-Plugin installiert wurde.<br /><b>Wenn diese Option einmal aktiviert wurde, erscheint unter den allgemeinen Einstellungen eine neue Option, um das Menü wieder anzuzeigen.</b></small>"
+
+#: common/admin.php:135 common/admin.php:136 app/i18n.js:143
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: common/admin.php:115
+msgid "Remove the license"
+msgstr "Entferne die Lizenz"
+
+#: common/admin.php:109
+msgid "<p>It looks like you are using the free version of the plugin (<b>%s</b>) but a license for the Pro version was also found. The Pro version might have been replaced by the Free version during an update (might be caused by a temporarily issue). If it is the case, <b>please download it again</b> from the <a target=\"_blank\" href=\"https://meowapps.com\">Meow Store</a>. If you wish to continue using the free version and clear this message, click on this button."
+msgstr "<p>Es sieht so aus, als ob du die kostenlose Version des Plugins verwendest (<b>%s</b>), aber es wurde auch eine Lizenz für die Pro-Version gefunden. Möglicherweise wurde die Pro-Version während eines Aktualisierungsvorgangs durch die kostenlose Version ersetzt (dies könnte auf ein vorübergehendes Problem zurückzuführen sein). Sollte dies der Fall sein, <b>lade es bitte erneut</b> aus dem <a target=\"_blank\" href=\"https://meowapps.com\">Meow Store</a> herunter. Wenn du die kostenlose Version weiter verwenden und diese Meldung entfernen möchtest, klicke auf diesen Button."
+
+#: common/admin.php:78
+msgid "<a target=\"_blank\" href=\"https://meowapps.com\">Get the <u>Pro Version</u></a>"
+msgstr "<a target=\"_blank\" href=\"https://meowapps.com\">Hol dir die <u>Pro Version</u></a>"
+
+#: common/admin.php:78
+msgid "License Issue"
+msgstr "Lizenzproblem"
+
+#: common/admin.php:77
+msgid "Pro Version"
+msgstr "Pro-Version"
+
+#: common/admin.php:74
+msgid "<a href=\"admin.php?page=%s_settings\">Settings</a>"
+msgstr "<a href=\"admin.php?page=%s_settings\">Einstellungen</a>"
+
+#: classes/rest.php:223
+msgid "OK"
+msgstr "OK"
+
+#: classes/init.php:5
+msgid "Thanks for installing the Pro version of AI Engine :) However, the free version is still enabled. Please disable or uninstall it."
+msgstr "Danke, dass du die Pro-Version AI Engine installiert hast :). Die kostenlose Version ist jedoch noch aktiviert. Bitte deaktiviere oder deinstalliere diese."
+
+#. Author URI of the plugin
+msgid "https://jordymeow.com"
+msgstr "https://jordymeow.com"
+
+#. Author of the plugin
+msgid "Jordy Meow"
+msgstr "Jordy Meow"

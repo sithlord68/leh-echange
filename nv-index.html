@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lumière Harmonie</title>
+    <style>
+        /* Styles généraux */
+        body {
+            margin: 0;
+            font-family: 'Lato', sans-serif;
+            background-color: #ffffff;
+            color: #333333;
+        }
+
+        /* Barre de menu */
+        .menu {
+            width: 100%;
+            background-color: #4a4a4a;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 20px;
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .menu a {
+            color: #ffffff;
+            text-decoration: none;
+            font-size: 18px;
+            margin: 0 15px;
+        }
+
+        .menu a:hover {
+            color: #ffd700;
+        }
+
+        /* Section héroïque avec image d'arrière-plan */
+        .hero {
+            text-align: center;
+            padding: 100px 20px;
+            background-image: url('https://static.wixstatic.com/media/045fdf_9fe07a6c66f649a6b94c907324c65716_mv2.jpg');
+            background-size: cover;
+            background-position: center;
+            color: white;
+            box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
+        }
+
+        .hero h1 {
+            font-size: 4em;
+            margin: 0 0 20px;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+        }
+
+        .hero p {
+            font-size: 1.5em;
+            margin: 0;
+        }
+
+        /* Contenu des sections */
+        .section {
+            padding: 40px 20px;
+            margin: 20px auto;
+            max-width: 1200px;
+            background: #f9f9f9;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .section h2 {
+            color: #4a4a4a;
+            font-size: 2em;
+            margin-top: 0;
+        }
+
+        .section img {
+            max-width: 100%;
+            border-radius: 8px;
+        }
+
+        .section ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .section ul li {
+            background: #ffd700;
+            margin: 10px 0;
+            padding: 10px 15px;
+            border-radius: 5px;
+            color: #4a4a4a;
+        }
+
+        /* Boutons spécifiques */
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #4a4a4a;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+
+        .btn:hover {
+            background-color: #ffd700;
+            color: #4a4a4a;
+        }
+
+        /* Pied de page */
+        footer {
+            background-color: #4a4a4a;
+            color: white;
+            text-align: center;
+            padding: 15px 0;
+        }
+
+        footer a {
+            color: #ffd700;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Barre de navigation -->
+    <nav class="menu">
+        <a href="#accueil">Accueil</a>
+        <a href="#apropos">À propos</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <!-- Section héroïque -->
+    <header class="hero">
+        <h1>Lumière Harmonie</h1>
+        <p>Explorez la lumière et l'harmonie pour illuminer votre vie.</p>
+    </header>
+
+    <!-- Sections principales -->
+    <section id="accueil" class="section">
+        <h2>Accueil</h2>
+        <p>Bienvenue sur notre site. Découvrez un univers de lumière et d'harmonie à travers nos services uniques.</p>
+        <a href="#apropos" class="btn">En savoir plus</a>
+    </section>
+
+    <section id="apropos" class="section">
+        <h2>À propos</h2>
+        <p>Nous sommes passionnés par l'équilibre et la lumière dans tous les aspects de la vie. Apprenez-en plus sur notre mission.</p>
+        <img src="https://static.wixstatic.com/media/045fdf_9fe07a6c66f649a6b94c907324c65716_mv2.jpg" alt="Illustration">
+    </section>
+
+    <section id="services" class="section">
+        <h2>Services</h2>
+        <ul>
+            <li>Consultations personnalisées</li>
+            <li>Ateliers créatifs</li>
+            <li>Ressources en ligne</li>
+        </ul>
+    </section>
+
+    <section id="contact" class="section">
+        <h2>Contact</h2>
+        <p>Pour toute question ou demande, n'hésitez pas à nous contacter.</p>
+        <a href="mailto:contact@lumiereharmonie.ch" class="btn">Nous écrire</a>
+    </section>
+
+    <!-- Pied de page -->
+    <footer>
+        <p>&copy; 2024 Lumière Harmonie. Tous droits réservés. <a href="#">Mentions légales</a></p>
+    </footer>
+
+</body>
+</html>
